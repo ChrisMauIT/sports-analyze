@@ -1,0 +1,11 @@
+{
+  "name": "sports-betting-analyzer",
+  "version": "1.0.0",
+  "description": "AI Sports Betting Analyzer",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}
